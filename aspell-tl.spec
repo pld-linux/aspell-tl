@@ -1,5 +1,5 @@
 Summary:	Tagalog dictionary for aspell
-Summary(pl.UTF-8):   Słownik tagalski dla aspella
+Summary(pl.UTF-8):	Słownik tagalski dla aspella
 Name:		aspell-tl
 Version:	0.02
 %define	subv	1
