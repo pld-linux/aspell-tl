@@ -1,5 +1,5 @@
 Summary:	Tagalog dictionary for aspell
-Summary(pl):	S≥ownik tagalski dla aspella
+Summary(pl.UTF-8):   S≈Çownik tagalski dla aspella
 Name:		aspell-tl
 Version:	0.02
 %define	subv	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Tagalog dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik tagalski (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik tagalski (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell5-tl-%{version}-%{subv}
